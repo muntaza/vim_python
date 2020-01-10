@@ -7,6 +7,7 @@ set tabstop=8
 set softtabstop=4
 set shiftwidth=4
 set autoindent
+set cursorline
 syntax on
 filetype plugin on
 filetype indent on
