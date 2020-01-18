@@ -17,3 +17,6 @@ colorscheme cobalt
 
 filetype on
 set completeopt-=preview
+
+set wildmode=longest,list
+set wildmenu
